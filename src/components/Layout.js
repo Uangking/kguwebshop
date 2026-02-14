@@ -3,11 +3,11 @@ import { Outlet, Link } from 'react-router-dom';
 
 export default function Layout() {
   return (
-    <div>
+    <div className="app-container">
       <header className="header">
         <div className="header-left">
           <div className="logo">
-            <img src="/logo192.png" alt="logo" />
+            <img src="/logo.jpg" alt="Ambatublow Store Logo" />
           </div>
           <h2>Ambatublow Store</h2>
         </div>
@@ -26,7 +26,7 @@ export default function Layout() {
         </ul>
       </nav>
 
-      <section>
+      <section className="content">
         <Outlet />
       </section>
 
