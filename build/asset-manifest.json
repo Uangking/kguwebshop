@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kguwebshop/static/css/main.d769b2c9.css",
+    "main.js": "/kguwebshop/static/js/main.a8d24390.js",
+    "static/js/453.5a7fae6e.chunk.js": "/kguwebshop/static/js/453.5a7fae6e.chunk.js",
+    "index.html": "/kguwebshop/index.html",
+    "main.d769b2c9.css.map": "/kguwebshop/static/css/main.d769b2c9.css.map",
+    "main.a8d24390.js.map": "/kguwebshop/static/js/main.a8d24390.js.map",
+    "453.5a7fae6e.chunk.js.map": "/kguwebshop/static/js/453.5a7fae6e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d769b2c9.css",
+    "static/js/main.a8d24390.js"
+  ]
+}

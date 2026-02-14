@@ -14,7 +14,7 @@ import TransactionConfirmation from './pages/TransactionConfirmation';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/kguwebshop/">
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<Home />} />
